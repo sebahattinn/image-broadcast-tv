@@ -32,6 +32,7 @@ dotnet restore
 
 **Veritabanını Oluşturun:**
 ```bash
+dotnet ef migrations add InitialCreate
 dotnet ef database update
 dotnet run
 ```
