@@ -1,0 +1,14 @@
+﻿  {
+    "$schema": "https://json.schemastore.org/launchsettings.json",
+    "profiles": {
+      "ImageBroadcastApi": {
+        "commandName": "Project",
+        "dotnetRunMessages": true,
+        "launchBrowser": true,
+        "applicationUrl": "http://0.0.0.0:5125;http://0.0.0.0:7105",
+        "environmentVariables": {
+          "ASPNETCORE_ENVIRONMENT": "Development"
+        }
+      }
+    }
+  }
